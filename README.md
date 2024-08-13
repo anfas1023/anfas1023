@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm  Rahith kr</h1>
+<h1 align="center">Hi 👋, I'm  Anfas Muhammed</h1>
 <h3 align="center">
   <span class="typing">"Where creativity meets code, magic happens."</span>
 </h3>
@@ -10,13 +10,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahithkr&label=Profile%20views&color=0e75b6&style=flat" alt="rahithkr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r4kesh" alt="r4kesh" /></a> </p>
-- 🔭 I’m currently working on CodeBlue  an emergency service web application
+- 🔭 I’m currently working on Project Managment Tool
 
 - 🌱 I’m exploring latest technologies and forward  to contribute my skills.
 
-  - 💬 Ask me about react, nodejs, mongodb,javascript,typescript,nextjs
+  - 💬 Ask me about react, nodejs mongodb,javascript,typescript,nextjs,nest js ,microservices,kubernetes,docker
 
-- 📫 How to reach me rahithkr69@gmail.com
+- 📫 How to reach me anfasmuhammed936@gmail.com
 
 
 <h3 align="left">Connect with me:</h3>
