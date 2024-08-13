@@ -3,6 +3,11 @@
 
 - 🔭 I’m currently working on **Project Management tool**
 
+<p align="center">
+  <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="800" height="300"/>
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anfasmuhammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anfasmuhammed" height="30" width="40" /></a>
