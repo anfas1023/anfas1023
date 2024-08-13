@@ -29,7 +29,7 @@
   <a href="https://www.instagram.com/mr_rahith71?igsh=MWFkb2ttdG43eWtodg==" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rahithkr" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/Rahith_kr/" target="blank">
+  <a href="https://leetcode.com/u/anfasmuhammed936/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahithkr" height="30" width="40" />
   </a>
 </div>
